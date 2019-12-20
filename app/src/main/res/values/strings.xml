@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Charging Stations</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_data">No data</string>
+    <string name="kw">KW</string>
+    <string name="title">Title:</string>
+    <string name="address">Address:</string>
+    <string name="town">Town: </string>
+    <string name="connections">Connections:</string>
+    <string name="power">Power:</string>
+    <string name="usage">Usage cost:</string>
+    <string name="comments">Comments:</string>
+    <string name="show_map">Show map</string>
+    <string name="author">Kristijan Kačan</string>
+    <string name="loading">Loading…</string>
+</resources>
