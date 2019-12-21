@@ -1,8 +1,11 @@
 # Charging Stations
 
 >Sveučilište u Zadru - Odjel za informacijske znanosti
+
 >Kolegij: Razvoj mobilnih aplikacija
+
 >Nastavnik: dr. sc. Tomislav Jakopec
+
 >Autor: Kristijan Kačan
 ### Powered by Open Charge Map API [![OpenCharheMap](https://openchargemap.org/favicon.ico)](http://openchargemap.org/site/develop/api)
 ---
