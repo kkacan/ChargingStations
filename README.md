@@ -1,6 +1,6 @@
 # Charging Stations
 
-##### Powered by Open Charge Map API [![OpenCharheMap](http://https://openchargemap.org/favicon.ico)](http://http://openchargemap.org/site/develop/api)
+##### Powered by Open Charge Map API [![OpenCharheMap](https://openchargemap.org/favicon.ico)](http://openchargemap.org/site/develop/api)
 Android aplikacija koja prikazuje stanice za punjenje električnih automobila po državama.
 ---
 
