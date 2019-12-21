@@ -16,7 +16,7 @@ Aplikacija je namijenjena svim vlasnicima električnih automobila da što lakše
 Java API dokumentaciju možete pregledati na ovom [linku.][ln1]
 
 ### Screenshot
-![](screenshot.png)
+![](screenshot.png)![](screenshot2.png)
 
 
 
