@@ -1,9 +1,7 @@
 # Charging Stations
 
 >Sveučilište u Zadru - Odjel za informacijske znanosti
-
 >Kolegij: Razvoj mobilnih aplikacija
-
 >Nastavnik: dr. sc. Tomislav Jakopec
 
 >Autor: Kristijan Kačan
