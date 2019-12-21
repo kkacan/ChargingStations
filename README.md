@@ -1,4 +1,4 @@
-# Charging Stations ![Ikona](https://github.com/kkacan/ChargingStations/blob/git1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png) 
+# ![Ikona](https://github.com/kkacan/ChargingStations/blob/git1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)Charging Stations  
 
 >Sveučilište u Zadru - Odjel za informacijske znanosti</br>
 >Kolegij: Razvoj mobilnih aplikacija</br>
