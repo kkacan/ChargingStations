@@ -6,9 +6,9 @@
 >Autor: Kristijan Kačan</br>
 ### Powered by Open Charge Map API [![OpenCharheMap](https://openchargemap.org/favicon.ico)](http://openchargemap.org/site/develop/api)
 ---
-Android aplikacija koja prikazuje stanice za punjenje električnih automobila po državama.
-Korišten je Open Charge Map API za dohvaćanje podataka u JSON formatu.
-Za prikaz stanica na mapi korišten je Maps SDK for Android.
+Android aplikacija koja prikazuje stanice za punjenje električnih automobila po državama.</br>
+Korišten je Open Charge Map API za dohvaćanje podataka u JSON formatu.</br>
+Za prikaz stanica na mapi korišten je Maps SDK for Android.</br>
 Aplikacija je namijenjena svim vlasnicima električnih automobila da što lakše pronađu najbližu stanicu za punjenje svog limenog ljubimca.
 
 
