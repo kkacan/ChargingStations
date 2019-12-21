@@ -1,6 +1,7 @@
-# ChargingStations
+# Charging Stations
 
-Android aplikacija za prikaz stanica za punjenje električnih automobila.
+##### Android aplikacija za prikaz stanica za punjenje električnih automobila.
+---
 
 
 ### JavaDoc
