@@ -1,7 +1,9 @@
 # Charging Stations
 
-##### Android aplikacija za prikaz stanica za punjenje električnih automobila.
+##### Powered by Open Charge Map API [![Openwhyd](https://https://openchargemap.org/favicon.ico)](http://https://openchargemap.org/site/develop/api)
+Android aplikacija koja prikazuje stanice za punjenje električnih automobila po državama.
 ---
+
 
 
 ### JavaDoc
