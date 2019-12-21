@@ -1,9 +1,9 @@
 # Charging Stations
 
->Sveučilište u Zadru - Odjel za informacijske znanosti\n
->Kolegij: Razvoj mobilnih aplikacija\n
->Nastavnik: dr. sc. Tomislav Jakopec\n
->Autor: Kristijan Kačan\n
+>Sveučilište u Zadru - Odjel za informacijske znanosti</br>
+>Kolegij: Razvoj mobilnih aplikacija</br>
+>Nastavnik: dr. sc. Tomislav Jakopec</br>
+>Autor: Kristijan Kačan</br>
 ### Powered by Open Charge Map API [![OpenCharheMap](https://openchargemap.org/favicon.ico)](http://openchargemap.org/site/develop/api)
 ---
 Android aplikacija koja prikazuje stanice za punjenje električnih automobila po državama.
